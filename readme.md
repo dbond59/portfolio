@@ -1,5 +1,5 @@
 # My Portfolio
-This is my portfolio
+This is my portfolio and I am excited about coding!
 
 ## This is my work
 The Best Study Guide
